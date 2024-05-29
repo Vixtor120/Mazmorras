@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Mazmorras\Mazmorras\Main.cpp(94,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Mazmorras.vcxproj -> D:\Mazmorras\x64\Debug\Mazmorras.exe
